@@ -1,0 +1,5 @@
+{"itemID":"Item 1","name":"Weapon1","description":"This is Weapon1","price":10.0,"quantity":5}
+{"itemID":"Item 2","name":"Weapon2","description":"This is Weapon2","price":100.0,"quantity":5}
+{"itemID":"Item 3","name":"Armor1","description":"This is Armor1","price":20.0,"quantity":5}
+{"itemID":"Item 4","name":"Armor2","description":"This is Armor2","price":200.0,"quantity":5}
+{"itemID":"Item 5","name":"Health","description":"This will give health","price":50.0,"quantity":5}
