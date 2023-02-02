@@ -9,5 +9,5 @@ Plurality and Runoff are problems from an online CS50x course that initially con
 
 Importantly, not all the code in these were written by me. The problems provide code for us to start with, and then I had to complete certain methods to run the program. 
 
-The lines I wrote for plurality were 66 - 102 (Marked with TODO's as well) 
-The lines I wrote for runoff were 127 - 229
+The lines I wrote for plurality were 66 - 102 and 
+the lines I wrote for runoff were 127 - 229
